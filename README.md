@@ -33,7 +33,7 @@ The dataset contains BMW global sales information including:
 ---
 
 ## Technologies Used
-
+- Excel
 - Python
 - Pandas
 - NumPy
