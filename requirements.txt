@@ -1,0 +1,5 @@
+Excel
+pandas
+numpy
+matplotlib
+jupyter
