@@ -1,0 +1,1001 @@
+YEAR,MONTH,COUNTRY,MODEL,SEGMENT,ENGINE TYPE ,PRICE IN USD,UNIT SOLD
+2015,1,France,3 Series,SUV,Hybrid," $55,827 ",706
+2015,1,USA,7 Series,Electric,Hybrid," $60,186 ",922
+2015,1,China,i4,SUV,Hybrid," $1,18,384 ",368
+2015,1,Germany,i7,SUV,Diesel," $44,943 ",647
+2015,1,China,iX,Sedan,Petrol," $63,633 ",941
+2015,1,China,X1,Sedan,Hybrid," $1,04,876 ",675
+2015,1,India,X1,Sedan,Hybrid," $41,221 ",492
+2015,1,Canada,X5,Sedan,Hybrid," $67,167 ",380
+2015,1,China,X5,SUV,Petrol," $83,517 ",662
+2015,1,UK,X7,SUV,Diesel," $76,850 ",211
+2015,2,Brazil,3 Series,Sedan,Hybrid," $50,630 ",780
+2015,2,France,3 Series,SUV,Diesel," $1,02,695 ",538
+2015,2,China,5 Series,Electric,Hybrid," $1,16,788 ",575
+2015,2,Brazil,7 Series,Electric,Diesel," $79,462 ",298
+2015,2,India,7 Series,Sedan,Electric," $37,841 ",517
+2015,2,UK,7 Series,Sedan,Electric," $1,14,401 ",268
+2015,2,India,i4,Sedan,Electric," $91,356 ",306
+2015,2,Australia,X1,Electric,Hybrid," $48,016 ",1156
+2015,2,India,X1,Sedan,Hybrid," $35,495 ",973
+2015,2,India,X3,Sedan,Petrol," $1,13,291 ",1027
+2015,2,India,X7,Electric,Diesel," $75,696 ",388
+2015,2,USA,X7,SUV,Electric," $1,02,443 ",533
+2015,3,Canada,3 Series,SUV,Petrol," $1,08,324 ",1242
+2015,3,Canada,7 Series,Electric,Diesel," $85,494 ",100
+2015,3,India,7 Series,Sedan,Diesel," $40,037 ",762
+2015,3,France,i4,Sedan,Petrol," $1,04,453 ",265
+2015,3,China,X1,Sedan,Electric," $77,598 ",863
+2015,3,Australia,X3,Sedan,Diesel," $96,078 ",637
+2015,3,France,X3,Electric,Diesel," $53,610 ",675
+2015,4,France,X3,SUV,Electric," $84,556 ",815
+2015,4,UK,X3,SUV,Electric," $53,157 ",667
+2015,4,France,X5,Sedan,Petrol," $55,213 ",717
+2015,4,UK,X7,Sedan,Electric," $1,06,916 ",408
+2015,4,USA,X7,SUV,Diesel," $48,029 ",622
+2015,5,India,3 Series,SUV,Petrol," $82,645 ",827
+2015,5,Brazil,7 Series,SUV,Petrol," $1,10,242 ",943
+2015,5,USA,7 Series,SUV,Diesel," $1,09,024 ",493
+2015,5,France,i4,SUV,Electric," $91,396 ",15
+2015,5,France,i7,Electric,Hybrid," $1,02,616 ",687
+2015,5,Germany,i7,Sedan,Petrol," $90,739 ",527
+2015,5,Brazil,X1,SUV,Electric," $58,760 ",916
+2015,5,Canada,X5,Electric,Hybrid," $61,140 ",1044
+2015,5,Brazil,X7,SUV,Petrol," $1,12,463 ",507
+2015,6,UK,5 Series,Electric,Diesel," $63,926 ",882
+2015,6,India,7 Series,SUV,Petrol," $1,03,472 ",313
+2015,6,Australia,i4,SUV,Diesel," $1,18,791 ",751
+2015,6,France,i7,Electric,Diesel," $76,984 ",814
+2015,6,China,X1,Sedan,Petrol," $1,13,518 ",1156
+2015,6,UK,X1,SUV,Petrol," $87,975 ",751
+2015,6,USA,X5,Sedan,Electric," $93,502 ",596
+2015,7,Brazil,3 Series,SUV,Diesel," $44,927 ",923
+2015,7,Germany,3 Series,Sedan,Petrol," $46,279 ",999
+2015,7,China,i4,Sedan,Electric," $1,11,976 ",552
+2015,7,Canada,i7,Sedan,Diesel," $1,07,394 ",224
+2015,7,China,i7,Sedan,Hybrid," $43,876 ",467
+2015,7,China,iX,Sedan,Diesel," $44,637 ",861
+2015,7,China,X3,SUV,Petrol," $37,895 ",762
+2015,7,India,X5,SUV,Electric," $59,299 ",904
+2015,7,UK,X5,Sedan,Hybrid," $1,07,635 ",662
+2015,7,USA,X7,SUV,Diesel," $36,378 ",953
+2015,8,India,3 Series,SUV,Diesel," $44,837 ",670
+2015,8,USA,3 Series,Electric,Petrol," $87,982 ",495
+2015,8,China,5 Series,SUV,Hybrid," $40,583 ",417
+2015,8,France,i4,Sedan,Electric," $77,065 ",929
+2015,8,Canada,i7,Electric,Hybrid," $49,414 ",564
+2015,8,Australia,X1,Electric,Diesel," $65,930 ",301
+2015,8,Canada,X3,Sedan,Diesel," $59,648 ",724
+2015,8,Germany,X3,Electric,Petrol," $42,533 ",721
+2015,8,Germany,X3,SUV,Petrol," $51,075 ",388
+2015,8,Canada,X5,Electric,Hybrid," $1,14,823 ",398
+2015,8,Japan,X7,Sedan,Diesel," $96,861 ",451
+2015,8,UK,X7,SUV,Diesel," $35,893 ",212
+2015,9,USA,3 Series,SUV,Petrol," $46,772 ",1044
+2015,9,USA,i4,SUV,Hybrid," $75,734 ",836
+2015,9,Japan,X1,SUV,Electric," $72,052 ",908
+2015,9,USA,X1,SUV,Hybrid," $1,01,677 ",255
+2015,9,Australia,X3,SUV,Hybrid," $96,431 ",937
+2015,9,UK,X3,SUV,Electric," $41,054 ",905
+2015,9,USA,X3,Sedan,Hybrid," $1,19,577 ",678
+2015,9,Germany,X5,Electric,Diesel," $88,639 ",482
+2015,9,USA,X5,SUV,Electric," $81,418 ",162
+2015,9,Australia,X7,SUV,Diesel," $65,607 ",588
+2015,9,Brazil,X7,Electric,Petrol," $1,03,876 ",540
+2015,9,UK,X7,Electric,Diesel," $75,581 ",848
+2015,10,France,3 Series,Sedan,Hybrid," $1,12,004 ",130
+2015,10,Germany,5 Series,SUV,Petrol," $80,760 ",961
+2015,10,China,7 Series,Sedan,Petrol," $1,15,846 ",359
+2015,10,USA,7 Series,Sedan,Diesel," $71,561 ",284
+2015,10,France,i7,SUV,Diesel," $75,277 ",275
+2015,10,Australia,X1,SUV,Electric," $42,349 ",372
+2015,10,France,X3,SUV,Diesel," $63,557 ",542
+2015,10,USA,X5,Electric,Hybrid," $61,123 ",788
+2015,10,France,X7,Sedan,Petrol," $67,634 ",849
+2015,11,Germany,3 Series,Electric,Diesel," $45,143 ",651
+2015,11,UK,3 Series,Sedan,Diesel," $1,15,863 ",473
+2015,11,UK,3 Series,SUV,Hybrid," $38,775 ",835
+2015,11,USA,3 Series,SUV,Hybrid," $55,711 ",170
+2015,11,Brazil,5 Series,Sedan,Hybrid," $67,919 ",600
+2015,11,Germany,5 Series,Electric,Petrol," $81,032 ",247
+2015,11,USA,5 Series,Sedan,Hybrid," $86,702 ",304
+2015,11,Brazil,i4,Sedan,Hybrid," $1,12,239 ",446
+2015,11,France,i4,SUV,Diesel," $1,00,911 ",1145
+2015,11,India,i7,Sedan,Electric," $69,159 ",994
+2015,11,China,iX,Electric,Hybrid," $87,057 ",1196
+2015,11,China,X1,Sedan,Electric," $78,459 ",576
+2015,11,UK,X1,Electric,Electric," $1,07,573 ",759
+2015,11,Brazil,X3,SUV,Electric," $91,548 ",887
+2015,11,China,X5,SUV,Diesel," $47,720 ",677
+2015,12,UK,3 Series,Sedan,Diesel," $54,065 ",713
+2015,12,Brazil,5 Series,Electric,Diesel," $85,435 ",1038
+2015,12,Canada,7 Series,Electric,Diesel," $39,321 ",367
+2015,12,Canada,i4,Electric,Petrol," $1,18,860 ",1078
+2015,12,Germany,i4,Electric,Hybrid," $1,08,843 ",822
+2015,12,China,X1,Electric,Hybrid," $1,17,476 ",1025
+2015,12,China,X3,Electric,Diesel," $58,649 ",1071
+2015,12,India,X3,SUV,Hybrid," $53,100 ",320
+2015,12,Brazil,X5,Sedan,Electric," $81,546 ",532
+2015,12,USA,X5,SUV,Hybrid," $83,665 ",553
+2016,1,Australia,7 Series,Sedan,Hybrid," $80,246 ",479
+2016,1,Canada,7 Series,Sedan,Diesel," $60,081 ",100
+2016,1,Brazil,i7,Sedan,Hybrid," $45,681 ",511
+2016,1,Germany,X3,Sedan,Hybrid," $76,798 ",1104
+2016,2,Brazil,5 Series,SUV,Electric," $58,600 ",654
+2016,2,Japan,5 Series,SUV,Hybrid," $42,797 ",1026
+2016,2,UK,7 Series,Sedan,Petrol," $1,03,116 ",231
+2016,2,USA,7 Series,Sedan,Hybrid," $1,15,960 ",805
+2016,2,Australia,iX,Electric,Petrol," $75,860 ",330
+2016,2,Brazil,X1,SUV,Diesel," $68,302 ",438
+2016,2,Australia,X7,SUV,Hybrid," $44,190 ",632
+2016,2,China,X7,Electric,Petrol," $1,05,990 ",1024
+2016,2,India,X7,SUV,Petrol," $95,739 ",184
+2016,3,India,i4,Sedan,Hybrid," $50,187 ",708
+2016,3,India,i4,SUV,Hybrid," $98,080 ",317
+2016,3,China,iX,SUV,Diesel," $1,19,817 ",730
+2016,3,Australia,X1,SUV,Electric," $85,013 ",347
+2016,3,France,X1,Sedan,Diesel," $38,114 ",968
+2016,3,Japan,X1,Sedan,Electric," $78,254 ",377
+2016,3,UK,X5,Electric,Electric," $50,989 ",651
+2016,3,Germany,X7,Electric,Diesel," $88,473 ",540
+2016,4,UK,5 Series,Electric,Diesel," $61,950 ",931
+2016,4,Australia,7 Series,Sedan,Petrol," $85,210 ",865
+2016,4,China,i4,Electric,Petrol," $41,191 ",1197
+2016,4,India,i4,Electric,Diesel," $62,281 ",640
+2016,4,Canada,i7,Sedan,Diesel," $36,301 ",595
+2016,4,Brazil,iX,SUV,Diesel," $64,424 ",456
+2016,5,Brazil,3 Series,Sedan,Electric," $86,567 ",463
+2016,5,Canada,3 Series,Electric,Electric," $1,19,694 ",536
+2016,5,Canada,5 Series,Electric,Electric," $79,066 ",587
+2016,5,Australia,7 Series,SUV,Petrol," $1,02,691 ",390
+2016,5,Brazil,7 Series,Electric,Hybrid," $55,918 ",680
+2016,5,UK,i4,SUV,Diesel," $1,02,684 ",336
+2016,5,Australia,iX,Sedan,Hybrid," $69,474 ",548
+2016,5,Germany,X3,SUV,Electric," $59,162 ",542
+2016,5,Canada,X5,Sedan,Electric," $78,066 ",187
+2016,5,China,X5,SUV,Diesel," $74,661 ",529
+2016,6,China,5 Series,SUV,Electric," $69,493 ",967
+2016,6,Japan,5 Series,SUV,Diesel," $58,834 ",1006
+2016,6,Australia,iX,Sedan,Petrol," $97,217 ",411
+2016,7,UK,3 Series,SUV,Hybrid," $35,507 ",1169
+2016,7,Germany,X1,Sedan,Electric," $1,13,002 ",318
+2016,7,India,X1,SUV,Diesel," $43,320 ",641
+2016,8,USA,5 Series,SUV,Petrol," $1,16,502 ",393
+2016,8,Brazil,7 Series,Sedan,Hybrid," $49,605 ",759
+2016,8,Canada,7 Series,Sedan,Petrol," $45,345 ",916
+2016,8,France,7 Series,Electric,Electric," $62,052 ",518
+2016,8,France,i4,SUV,Electric," $42,853 ",666
+2016,8,Brazil,i7,SUV,Electric," $75,745 ",1004
+2016,8,India,i7,SUV,Electric," $1,19,518 ",847
+2016,8,Japan,X1,SUV,Diesel," $95,430 ",510
+2016,8,UK,X3,Electric,Electric," $35,490 ",450
+2016,8,Canada,X5,Sedan,Electric," $64,670 ",800
+2016,9,UK,3 Series,SUV,Electric," $95,942 ",892
+2016,9,Brazil,7 Series,SUV,Hybrid," $96,269 ",588
+2016,9,Japan,7 Series,Sedan,Hybrid," $1,16,418 ",743
+2016,9,France,i4,SUV,Diesel," $61,081 ",848
+2016,9,Brazil,X1,SUV,Hybrid," $1,14,079 ",396
+2016,9,India,X1,Sedan,Petrol," $42,465 ",775
+2016,9,Canada,X3,Electric,Hybrid," $77,818 ",684
+2016,9,Japan,X3,Electric,Diesel," $37,809 ",529
+2016,9,Brazil,X5,Electric,Hybrid," $92,473 ",935
+2016,9,USA,X7,SUV,Electric," $1,18,111 ",290
+2016,10,Canada,3 Series,Electric,Electric," $35,515 ",561
+2016,10,Brazil,5 Series,Electric,Hybrid," $39,136 ",387
+2016,10,USA,i7,Sedan,Electric," $77,431 ",543
+2016,10,Australia,X1,Sedan,Petrol," $87,091 ",829
+2016,10,UK,X1,SUV,Electric," $62,160 ",406
+2016,10,Japan,X3,Electric,Electric," $1,06,138 ",647
+2016,11,China,3 Series,SUV,Hybrid," $54,581 ",346
+2016,11,France,3 Series,Electric,Electric," $55,977 ",600
+2016,11,China,i4,Electric,Petrol," $1,15,428 ",533
+2016,11,Germany,i4,Electric,Hybrid," $65,573 ",578
+2016,11,Australia,X1,Electric,Diesel," $88,775 ",910
+2016,11,USA,X1,Electric,Diesel," $77,624 ",433
+2016,11,Japan,X5,Sedan,Petrol," $1,02,598 ",625
+2016,12,UK,3 Series,SUV,Diesel," $1,11,382 ",883
+2016,12,Germany,5 Series,Sedan,Hybrid," $92,724 ",1070
+2016,12,USA,7 Series,SUV,Electric," $1,08,531 ",785
+2016,12,Japan,i4,SUV,Diesel," $69,758 ",977
+2016,12,Japan,i7,Electric,Electric," $52,796 ",953
+2016,12,China,X5,Sedan,Diesel," $92,608 ",622
+2016,12,Japan,X5,Electric,Hybrid," $1,10,900 ",868
+2017,1,France,3 Series,SUV,Petrol," $1,05,190 ",515
+2017,1,India,3 Series,Sedan,Petrol," $52,272 ",1036
+2017,1,USA,3 Series,Sedan,Petrol," $39,603 ",778
+2017,1,Australia,7 Series,Electric,Electric," $97,894 ",457
+2017,1,Australia,i4,Electric,Hybrid," $97,320 ",396
+2017,1,China,i4,Sedan,Hybrid," $92,204 ",698
+2017,1,USA,i4,Sedan,Hybrid," $96,816 ",373
+2017,1,France,iX,Electric,Diesel," $50,960 ",759
+2017,1,USA,iX,Electric,Hybrid," $69,635 ",533
+2017,1,China,X3,Electric,Electric," $1,13,543 ",586
+2017,1,Germany,X3,SUV,Electric," $78,059 ",1181
+2017,1,Germany,X5,Sedan,Diesel," $1,19,573 ",67
+2017,2,Canada,3 Series,Sedan,Electric," $63,369 ",532
+2017,2,France,5 Series,Electric,Diesel," $49,506 ",674
+2017,2,India,7 Series,Electric,Petrol," $1,17,733 ",782
+2017,2,USA,i4,SUV,Petrol," $95,892 ",804
+2017,2,Germany,i7,Electric,Petrol," $42,933 ",361
+2017,2,Brazil,iX,SUV,Electric," $51,932 ",711
+2017,2,France,X1,SUV,Hybrid," $52,857 ",523
+2017,2,France,X1,SUV,Hybrid," $45,400 ",286
+2017,2,USA,X1,Electric,Petrol," $96,304 ",668
+2017,2,Australia,X3,Electric,Hybrid," $51,574 ",591
+2017,2,France,X3,Sedan,Electric," $35,390 ",1007
+2017,2,Brazil,X5,SUV,Hybrid," $35,798 ",151
+2017,2,China,X5,SUV,Diesel," $67,330 ",896
+2017,2,UK,X5,Sedan,Diesel," $50,689 ",406
+2017,3,China,5 Series,Electric,Hybrid," $1,08,755 ",578
+2017,3,France,iX,SUV,Hybrid," $46,569 ",874
+2017,3,India,iX,SUV,Petrol," $1,13,863 ",693
+2017,3,Brazil,X1,SUV,Petrol," $1,09,229 ",716
+2017,3,Japan,X3,Sedan,Electric," $69,650 ",197
+2017,3,India,X7,Electric,Electric," $64,086 ",381
+2017,4,Australia,3 Series,Electric,Hybrid," $35,992 ",907
+2017,4,Japan,3 Series,Electric,Hybrid," $1,15,158 ",72
+2017,4,UK,7 Series,Electric,Diesel," $79,439 ",420
+2017,4,USA,i4,Electric,Diesel," $1,14,526 ",439
+2017,4,France,i7,Electric,Petrol," $1,11,396 ",964
+2017,4,Brazil,X5,SUV,Hybrid," $73,871 ",525
+2017,5,Canada,3 Series,Sedan,Hybrid," $51,374 ",1096
+2017,5,Japan,iX,SUV,Diesel," $36,184 ",536
+2017,5,UK,iX,Sedan,Hybrid," $1,11,946 ",903
+2017,5,India,X1,Sedan,Diesel," $54,810 ",663
+2017,5,Japan,X1,SUV,Diesel," $83,128 ",512
+2017,5,Brazil,X3,Sedan,Hybrid," $1,16,417 ",705
+2017,5,USA,X5,Sedan,Petrol," $1,08,984 ",472
+2017,6,China,7 Series,SUV,Diesel," $61,655 ",1066
+2017,6,Brazil,i4,Electric,Hybrid," $67,924 ",576
+2017,6,Australia,iX,Electric,Hybrid," $1,06,927 ",933
+2017,6,Canada,iX,SUV,Diesel," $1,09,807 ",380
+2017,6,India,iX,SUV,Hybrid," $70,932 ",502
+2017,6,Japan,iX,SUV,Electric," $47,254 ",389
+2017,7,Brazil,3 Series,SUV,Hybrid," $79,414 ",632
+2017,7,Brazil,i4,SUV,Electric," $52,297 ",738
+2017,7,France,i7,SUV,Petrol," $60,425 ",302
+2017,7,Canada,iX,Sedan,Diesel," $82,766 ",106
+2017,7,India,iX,Electric,Diesel," $96,822 ",941
+2017,7,China,X3,Electric,Petrol," $70,398 ",951
+2017,7,India,X5,SUV,Petrol," $41,772 ",351
+2017,7,Japan,X5,Sedan,Petrol," $1,16,533 ",1019
+2017,7,USA,X7,Sedan,Electric," $86,272 ",150
+2017,8,Japan,3 Series,Sedan,Hybrid," $65,063 ",245
+2017,8,Brazil,5 Series,Sedan,Petrol," $1,01,985 ",453
+2017,8,Japan,7 Series,Electric,Hybrid," $1,03,244 ",821
+2017,8,Canada,i4,SUV,Electric," $1,00,066 ",436
+2017,8,UK,i7,Sedan,Diesel," $1,08,373 ",997
+2017,8,Canada,iX,Electric,Diesel," $76,081 ",879
+2017,8,UK,iX,Sedan,Hybrid," $71,993 ",766
+2017,8,Australia,X1,Electric,Electric," $82,975 ",652
+2017,8,India,X5,Electric,Hybrid," $41,449 ",1119
+2017,8,Canada,X7,Electric,Hybrid," $90,371 ",718
+2017,9,China,3 Series,Electric,Petrol," $52,174 ",149
+2017,9,France,5 Series,Sedan,Petrol," $1,19,101 ",446
+2017,9,Australia,7 Series,SUV,Hybrid," $58,488 ",426
+2017,9,Brazil,i4,Sedan,Diesel," $1,12,606 ",665
+2017,9,China,i7,Electric,Diesel," $84,699 ",796
+2017,9,Germany,i7,SUV,Diesel," $1,05,411 ",179
+2017,9,Australia,iX,Sedan,Diesel," $55,470 ",1012
+2017,9,Canada,X3,Electric,Petrol," $1,00,497 ",622
+2017,9,Canada,X5,Sedan,Petrol," $37,716 ",327
+2017,9,France,X7,Sedan,Diesel," $1,01,727 ",889
+2017,9,Germany,X7,Sedan,Petrol," $1,17,263 ",880
+2017,10,Japan,3 Series,SUV,Electric," $69,678 ",889
+2017,10,India,5 Series,SUV,Electric," $1,18,886 ",357
+2017,10,Germany,7 Series,Electric,Diesel," $40,033 ",1118
+2017,10,France,i4,SUV,Hybrid," $98,927 ",523
+2017,10,UK,i4,Electric,Electric," $97,874 ",482
+2017,10,China,X3,Sedan,Petrol," $91,652 ",725
+2017,10,Australia,X5,Electric,Electric," $1,15,440 ",527
+2017,10,China,X5,Sedan,Electric," $98,772 ",406
+2017,11,China,5 Series,Electric,Electric," $1,18,434 ",216
+2017,11,Germany,7 Series,Sedan,Electric," $66,658 ",499
+2017,11,UK,i4,SUV,Hybrid," $1,16,441 ",1027
+2017,11,India,i7,Sedan,Petrol," $89,675 ",1029
+2017,11,Brazil,X3,SUV,Hybrid," $65,951 ",811
+2017,11,China,X3,SUV,Hybrid," $44,095 ",860
+2017,11,India,X3,Electric,Electric," $99,384 ",515
+2017,11,Japan,X3,Sedan,Electric," $81,751 ",355
+2017,11,Canada,X5,Electric,Hybrid," $61,928 ",798
+2017,11,UK,X7,Sedan,Electric," $66,973 ",737
+2017,12,China,3 Series,Electric,Petrol," $1,17,936 ",441
+2017,12,China,i4,Sedan,Hybrid," $64,001 ",709
+2017,12,India,i4,SUV,Diesel," $96,868 ",455
+2017,12,Brazil,iX,Sedan,Electric," $74,884 ",836
+2017,12,India,X3,Electric,Electric," $72,344 ",931
+2017,12,Japan,X3,Sedan,Electric," $40,974 ",699
+2017,12,USA,X3,SUV,Petrol," $1,00,364 ",639
+2017,12,Australia,X5,Sedan,Electric," $56,164 ",822
+2017,12,Brazil,X5,Sedan,Electric," $40,730 ",1096
+2017,12,China,X5,SUV,Electric," $49,271 ",967
+2017,12,Germany,X5,Electric,Diesel," $38,720 ",349
+2018,1,China,3 Series,SUV,Diesel," $1,06,792 ",496
+2018,1,Japan,3 Series,Electric,Petrol," $95,610 ",685
+2018,1,Canada,5 Series,Sedan,Hybrid," $45,310 ",421
+2018,1,Brazil,7 Series,Electric,Hybrid," $42,211 ",121
+2018,1,China,i4,Electric,Petrol," $90,432 ",1195
+2018,1,France,i7,Electric,Electric," $57,092 ",719
+2018,2,Canada,3 Series,Electric,Electric," $36,893 ",534
+2018,2,Brazil,7 Series,SUV,Petrol," $65,699 ",582
+2018,2,Australia,i4,Electric,Petrol," $1,17,916 ",360
+2018,2,China,i4,SUV,Petrol," $35,066 ",878
+2018,2,France,i7,Electric,Diesel," $57,499 ",765
+2018,2,Japan,i7,SUV,Diesel," $90,421 ",591
+2018,2,UK,iX,SUV,Diesel," $39,368 ",971
+2018,2,Germany,X3,Electric,Diesel," $98,212 ",911
+2018,2,India,X5,SUV,Petrol," $1,14,737 ",747
+2018,2,Japan,X5,Electric,Petrol," $1,16,384 ",769
+2018,2,Japan,X7,Sedan,Electric," $95,758 ",725
+2018,3,Brazil,5 Series,Electric,Hybrid," $73,990 ",930
+2018,3,Australia,i4,SUV,Petrol," $93,755 ",417
+2018,3,Australia,i4,Sedan,Electric," $39,011 ",951
+2018,3,India,i4,Electric,Diesel," $38,956 ",457
+2018,3,Brazil,X3,Sedan,Petrol," $67,966 ",480
+2018,3,India,X3,SUV,Electric," $1,09,852 ",519
+2018,3,Australia,X5,SUV,Petrol," $68,139 ",459
+2018,3,USA,X5,Sedan,Electric," $47,615 ",225
+2018,3,Canada,X7,Sedan,Hybrid," $84,737 ",224
+2018,4,Germany,5 Series,Sedan,Electric," $38,174 ",420
+2018,4,France,i4,Sedan,Hybrid," $38,225 ",1118
+2018,4,China,X3,SUV,Diesel," $91,398 ",559
+2018,4,Japan,X3,Electric,Petrol," $71,824 ",191
+2018,5,Brazil,5 Series,Sedan,Petrol," $1,06,154 ",305
+2018,5,UK,5 Series,Electric,Electric," $92,514 ",447
+2018,5,France,i4,SUV,Electric," $95,973 ",536
+2018,5,France,i7,Electric,Electric," $92,174 ",543
+2018,5,Japan,iX,SUV,Hybrid," $1,06,042 ",152
+2018,5,Brazil,X3,Electric,Electric," $1,15,859 ",640
+2018,5,India,X3,Sedan,Hybrid," $55,039 ",668
+2018,5,Brazil,X5,Sedan,Petrol," $95,197 ",805
+2018,6,Australia,3 Series,SUV,Hybrid," $74,779 ",726
+2018,6,Canada,5 Series,SUV,Electric," $55,746 ",679
+2018,6,USA,5 Series,SUV,Diesel," $85,492 ",354
+2018,6,France,7 Series,Electric,Petrol," $87,248 ",477
+2018,6,Brazil,i4,Sedan,Electric," $40,269 ",476
+2018,6,France,i4,SUV,Hybrid," $98,014 ",397
+2018,6,India,i7,SUV,Hybrid," $42,987 ",296
+2018,6,Australia,X3,SUV,Petrol," $78,129 ",538
+2018,6,Brazil,X3,SUV,Petrol," $49,130 ",533
+2018,6,Australia,X5,Electric,Electric," $68,686 ",834
+2018,6,India,X5,SUV,Petrol," $36,577 ",626
+2018,6,USA,X7,SUV,Electric," $94,470 ",733
+2018,7,Australia,3 Series,Electric,Petrol," $55,085 ",880
+2018,7,Canada,i4,Electric,Electric," $35,786 ",575
+2018,7,France,i4,Sedan,Hybrid," $39,758 ",934
+2018,7,Canada,iX,Electric,Diesel," $36,462 ",182
+2018,7,Australia,X1,Electric,Diesel," $98,965 ",551
+2018,7,Australia,X3,Sedan,Electric," $43,947 ",837
+2018,8,France,3 Series,SUV,Hybrid," $81,854 ",887
+2018,8,India,3 Series,SUV,Electric," $74,516 ",142
+2018,8,India,3 Series,Sedan,Hybrid," $87,349 ",701
+2018,8,Australia,5 Series,Electric,Diesel," $80,264 ",936
+2018,8,Brazil,5 Series,Sedan,Petrol," $68,896 ",708
+2018,8,India,7 Series,SUV,Diesel," $79,237 ",807
+2018,8,Japan,7 Series,Sedan,Hybrid," $73,762 ",332
+2018,8,Australia,i4,Sedan,Electric," $82,291 ",556
+2018,8,Brazil,i4,Electric,Hybrid," $44,290 ",951
+2018,8,India,i7,Electric,Diesel," $57,504 ",387
+2018,8,USA,X1,SUV,Diesel," $98,382 ",400
+2018,8,China,X7,Sedan,Diesel," $51,122 ",530
+2018,8,UK,X7,Sedan,Electric," $1,08,779 ",827
+2018,9,Brazil,3 Series,Electric,Electric," $1,05,832 ",657
+2018,9,Germany,3 Series,Electric,Petrol," $64,793 ",500
+2018,9,UK,i7,Sedan,Electric," $94,199 ",512
+2018,9,France,X1,Sedan,Hybrid," $48,854 ",966
+2018,9,Germany,X3,SUV,Hybrid," $40,622 ",664
+2018,9,Australia,X7,Sedan,Petrol," $77,137 ",243
+2018,10,Brazil,5 Series,SUV,Hybrid," $70,081 ",529
+2018,10,France,i7,SUV,Electric," $70,929 ",869
+2018,10,China,iX,Electric,Hybrid," $50,240 ",703
+2018,10,China,X7,Sedan,Hybrid," $98,851 ",173
+2018,11,Japan,3 Series,SUV,Hybrid," $79,116 ",781
+2018,11,USA,iX,Sedan,Diesel," $85,383 ",634
+2018,11,Australia,X1,Sedan,Petrol," $50,696 ",898
+2018,11,France,X3,Sedan,Diesel," $75,644 ",887
+2018,11,Canada,X5,SUV,Diesel," $56,199 ",534
+2018,12,Brazil,i4,Sedan,Petrol," $86,448 ",581
+2018,12,Japan,i4,SUV,Hybrid," $40,529 ",662
+2018,12,Germany,i7,Electric,Electric," $1,07,902 ",719
+2018,12,UK,i7,Electric,Petrol," $60,363 ",561
+2018,12,France,iX,Electric,Petrol," $1,18,255 ",1069
+2018,12,Australia,X3,Electric,Petrol," $98,752 ",1116
+2018,12,Canada,X3,SUV,Petrol," $66,875 ",434
+2018,12,France,X3,Sedan,Electric," $1,07,013 ",840
+2018,12,Canada,X5,SUV,Electric," $63,350 ",1033
+2018,12,Japan,X5,Electric,Diesel," $1,02,946 ",869
+2019,1,India,5 Series,Sedan,Hybrid," $46,516 ",496
+2019,1,Brazil,7 Series,Sedan,Hybrid," $89,478 ",652
+2019,1,China,7 Series,Electric,Hybrid," $38,332 ",418
+2019,1,Canada,i4,Electric,Petrol," $1,00,449 ",844
+2019,1,Germany,i4,SUV,Petrol," $75,475 ",610
+2019,1,Japan,i4,Sedan,Hybrid," $84,056 ",419
+2019,1,China,i7,Electric,Diesel," $49,327 ",1066
+2019,1,UK,i7,Electric,Petrol," $64,265 ",231
+2019,1,USA,i7,Electric,Electric," $55,028 ",685
+2019,1,Australia,iX,SUV,Hybrid," $57,490 ",1049
+2019,1,Australia,X3,Electric,Electric," $40,586 ",930
+2019,1,Brazil,X3,Sedan,Electric," $67,230 ",424
+2019,1,Canada,X7,Electric,Diesel," $96,497 ",369
+2019,1,Japan,X7,Electric,Diesel," $1,09,417 ",250
+2019,2,Canada,5 Series,Sedan,Electric," $1,14,436 ",730
+2019,2,UK,5 Series,Electric,Diesel," $44,130 ",744
+2019,2,France,7 Series,Sedan,Electric," $50,792 ",804
+2019,2,USA,i7,Sedan,Petrol," $1,14,795 ",724
+2019,2,France,iX,Electric,Diesel," $56,045 ",1114
+2019,2,Japan,iX,Electric,Electric," $45,304 ",613
+2019,2,India,X1,Electric,Electric," $50,804 ",1193
+2019,2,Japan,X1,SUV,Diesel," $96,382 ",596
+2019,3,China,3 Series,Sedan,Petrol," $87,949 ",265
+2019,3,China,3 Series,SUV,Petrol," $1,15,356 ",980
+2019,3,India,3 Series,Sedan,Electric," $80,156 ",455
+2019,3,Canada,7 Series,Electric,Electric," $77,832 ",658
+2019,3,USA,i7,Sedan,Petrol," $66,105 ",1062
+2019,3,Canada,X1,Electric,Petrol," $49,626 ",226
+2019,3,UK,X1,Electric,Electric," $77,771 ",225
+2019,3,UK,X1,Electric,Petrol," $55,056 ",913
+2019,3,USA,X5,Sedan,Electric," $63,621 ",945
+2019,4,Canada,3 Series,Sedan,Petrol," $1,18,168 ",187
+2019,4,Australia,7 Series,Sedan,Petrol," $92,233 ",70
+2019,4,France,7 Series,SUV,Petrol," $91,597 ",769
+2019,4,China,i4,Electric,Electric," $77,543 ",797
+2019,4,China,i7,Electric,Petrol," $44,824 ",1007
+2019,4,China,i7,Sedan,Electric," $49,380 ",584
+2019,4,Germany,i7,Sedan,Electric," $74,895 ",547
+2019,4,Australia,iX,Sedan,Hybrid," $63,091 ",1081
+2019,4,UK,iX,SUV,Diesel," $68,324 ",636
+2019,4,Brazil,X1,SUV,Diesel," $62,388 ",886
+2019,4,France,X3,Electric,Petrol," $1,01,151 ",976
+2019,4,India,X7,SUV,Hybrid," $36,079 ",351
+2019,5,Japan,3 Series,SUV,Electric," $65,133 ",117
+2019,5,Australia,i4,Electric,Hybrid," $70,897 ",985
+2019,5,India,i7,Electric,Diesel," $49,645 ",739
+2019,5,China,X3,Electric,Petrol," $1,19,269 ",910
+2019,5,Japan,X3,SUV,Electric," $35,692 ",916
+2019,5,Japan,X5,Electric,Electric," $73,106 ",977
+2019,6,Japan,3 Series,Sedan,Petrol," $80,436 ",193
+2019,6,France,5 Series,SUV,Diesel," $36,129 ",717
+2019,6,UK,7 Series,SUV,Petrol," $37,795 ",192
+2019,6,China,i7,Sedan,Hybrid," $1,10,069 ",791
+2019,6,UK,X3,SUV,Hybrid," $86,796 ",203
+2019,6,Brazil,X5,Sedan,Diesel," $1,08,870 ",951
+2019,6,Brazil,X7,Sedan,Electric," $1,12,733 ",861
+2019,7,Canada,3 Series,Sedan,Hybrid," $1,04,922 ",941
+2019,7,Brazil,5 Series,Electric,Petrol," $64,511 ",193
+2019,7,Australia,7 Series,Electric,Electric," $46,618 ",848
+2019,7,Brazil,7 Series,Sedan,Electric," $92,986 ",704
+2019,7,China,7 Series,Electric,Petrol," $41,464 ",524
+2019,7,China,i4,SUV,Diesel," $1,05,714 ",609
+2019,7,France,i4,Sedan,Petrol," $1,06,576 ",539
+2019,7,UK,i4,Electric,Diesel," $36,073 ",880
+2019,7,China,iX,Sedan,Diesel," $1,06,376 ",749
+2019,7,Japan,X5,SUV,Electric," $46,781 ",644
+2019,8,USA,3 Series,SUV,Diesel," $83,664 ",687
+2019,8,UK,5 Series,Electric,Hybrid," $64,320 ",620
+2019,8,China,7 Series,Sedan,Diesel," $86,413 ",453
+2019,8,Japan,7 Series,SUV,Electric," $74,255 ",552
+2019,8,UK,7 Series,SUV,Petrol," $41,828 ",1080
+2019,8,Australia,i7,Electric,Electric," $98,261 ",155
+2019,8,Canada,iX,SUV,Hybrid," $73,498 ",929
+2019,8,USA,X7,Electric,Hybrid," $36,462 ",573
+2019,9,China,5 Series,SUV,Petrol," $56,473 ",773
+2019,9,USA,5 Series,Electric,Petrol," $88,634 ",663
+2019,9,USA,5 Series,SUV,Diesel," $61,619 ",606
+2019,9,Australia,7 Series,Sedan,Hybrid," $79,148 ",744
+2019,9,Brazil,i7,Electric,Petrol," $52,241 ",544
+2019,9,UK,iX,Sedan,Diesel," $81,994 ",192
+2019,9,Germany,X1,Electric,Hybrid," $94,872 ",505
+2019,9,UK,X1,SUV,Electric," $48,329 ",1088
+2019,9,Brazil,X5,Electric,Electric," $37,881 ",775
+2019,9,China,X5,Sedan,Electric," $40,801 ",716
+2019,9,USA,X7,Sedan,Petrol," $1,19,517 ",517
+2019,10,USA,3 Series,Electric,Electric," $46,357 ",895
+2019,10,Canada,7 Series,Electric,Hybrid," $52,065 ",977
+2019,10,France,i4,Electric,Petrol," $73,737 ",720
+2019,10,Brazil,X1,Electric,Electric," $1,17,542 ",538
+2019,10,France,X3,Electric,Petrol," $77,932 ",725
+2019,10,China,X7,Sedan,Hybrid," $96,075 ",1083
+2019,10,China,X7,SUV,Diesel," $1,05,167 ",824
+2019,10,India,X7,SUV,Petrol," $83,994 ",413
+2019,11,Japan,3 Series,Sedan,Diesel," $52,118 ",667
+2019,11,Australia,7 Series,SUV,Hybrid," $1,07,833 ",395
+2019,11,USA,7 Series,Electric,Diesel," $1,02,657 ",186
+2019,11,Australia,i7,SUV,Electric," $42,371 ",730
+2019,11,France,iX,SUV,Diesel," $58,464 ",147
+2019,11,USA,iX,Sedan,Electric," $76,505 ",557
+2019,11,China,X3,SUV,Hybrid," $87,151 ",1001
+2019,11,USA,X3,SUV,Diesel," $57,616 ",1202
+2019,12,India,5 Series,SUV,Diesel," $1,08,762 ",367
+2019,12,Canada,i7,Electric,Petrol," $52,653 ",599
+2019,12,UK,i7,Sedan,Petrol," $54,585 ",861
+2019,12,Canada,X1,Sedan,Petrol," $71,547 ",1087
+2019,12,Brazil,X3,Electric,Diesel," $70,693 ",429
+2019,12,UK,X5,Electric,Hybrid," $91,240 ",750
+2020,1,China,5 Series,SUV,Diesel," $75,025 ",567
+2020,1,China,7 Series,Sedan,Petrol," $60,464 ",842
+2020,1,India,i4,Electric,Electric," $1,11,276 ",789
+2020,1,UK,i4,Sedan,Hybrid," $51,576 ",1073
+2020,1,UK,iX,Electric,Hybrid," $76,785 ",744
+2020,1,Brazil,X3,SUV,Hybrid," $63,229 ",749
+2020,1,France,X5,Sedan,Diesel," $94,213 ",197
+2020,2,Germany,5 Series,Electric,Diesel," $82,204 ",978
+2020,2,USA,5 Series,SUV,Electric," $54,773 ",982
+2020,2,Australia,i7,Electric,Diesel," $85,906 ",802
+2020,2,Germany,i7,Electric,Electric," $43,997 ",389
+2020,2,Brazil,X7,Electric,Electric," $75,874 ",292
+2020,3,Japan,7 Series,Electric,Diesel," $1,11,427 ",1075
+2020,3,Canada,i4,SUV,Hybrid," $1,18,981 ",622
+2020,3,UK,i7,Sedan,Diesel," $77,422 ",1135
+2020,3,Brazil,X1,SUV,Electric," $66,551 ",400
+2020,3,Brazil,X3,Sedan,Hybrid," $37,035 ",534
+2020,3,France,X3,SUV,Petrol," $62,843 ",975
+2020,3,Japan,X3,SUV,Diesel," $90,565 ",1051
+2020,3,UK,X3,SUV,Diesel," $1,07,572 ",813
+2020,3,UK,X7,Electric,Diesel," $52,010 ",980
+2020,4,Japan,3 Series,Electric,Electric," $35,463 ",644
+2020,4,China,iX,Electric,Hybrid," $50,581 ",877
+2020,4,Australia,X1,Electric,Petrol," $43,802 ",637
+2020,4,Germany,X1,SUV,Electric," $81,040 ",707
+2020,4,India,X7,Sedan,Diesel," $46,049 ",96
+2020,4,Japan,X7,SUV,Electric," $66,376 ",610
+2020,5,Australia,3 Series,Electric,Hybrid," $61,312 ",964
+2020,5,Brazil,5 Series,Sedan,Hybrid," $1,17,821 ",654
+2020,5,USA,5 Series,Sedan,Petrol," $87,413 ",1051
+2020,5,Brazil,7 Series,SUV,Diesel," $54,880 ",457
+2020,5,Brazil,7 Series,Sedan,Petrol," $1,05,219 ",176
+2020,5,India,7 Series,Sedan,Electric," $1,09,462 ",744
+2020,5,USA,i7,Sedan,Hybrid," $57,195 ",511
+2020,5,Germany,X5,SUV,Hybrid," $58,889 ",819
+2020,6,China,3 Series,Electric,Petrol," $62,672 ",848
+2020,6,Canada,7 Series,SUV,Diesel," $73,417 ",447
+2020,6,China,7 Series,Electric,Diesel," $52,576 ",728
+2020,6,India,i4,Electric,Hybrid," $98,456 ",565
+2020,6,USA,i4,Electric,Electric," $45,313 ",530
+2020,6,India,i7,Electric,Diesel," $54,782 ",1066
+2020,6,India,X5,SUV,Diesel," $1,03,689 ",92
+2020,6,Canada,X7,Electric,Electric," $87,335 ",451
+2020,7,China,3 Series,Sedan,Diesel," $60,625 ",954
+2020,7,Canada,5 Series,Electric,Electric," $35,153 ",630
+2020,7,India,5 Series,SUV,Diesel," $1,10,609 ",628
+2020,7,India,7 Series,Sedan,Hybrid," $43,346 ",386
+2020,7,India,7 Series,SUV,Electric," $78,894 ",1150
+2020,7,Canada,i4,Sedan,Diesel," $86,137 ",886
+2020,7,Canada,i4,Sedan,Petrol," $53,984 ",545
+2020,7,Australia,i7,Electric,Petrol," $49,141 ",648
+2020,7,UK,i7,SUV,Petrol," $1,00,776 ",714
+2020,7,Germany,iX,Sedan,Hybrid," $68,798 ",730
+2020,7,France,X1,Sedan,Diesel," $1,14,854 ",807
+2020,7,UK,X3,Sedan,Petrol," $1,05,211 ",773
+2020,7,USA,X3,Electric,Diesel," $91,117 ",1036
+2020,7,Australia,X7,SUV,Electric," $44,269 ",994
+2020,7,USA,X7,Sedan,Petrol," $98,656 ",479
+2020,8,India,7 Series,Sedan,Petrol," $61,870 ",740
+2020,8,Japan,iX,SUV,Hybrid," $58,474 ",245
+2020,8,UK,iX,Sedan,Diesel," $70,333 ",376
+2020,8,Brazil,X7,Electric,Hybrid," $72,038 ",407
+2020,9,Germany,i4,Electric,Petrol," $98,723 ",206
+2020,9,Canada,X1,Electric,Electric," $83,785 ",753
+2020,9,France,X1,SUV,Hybrid," $93,866 ",377
+2020,9,UK,X1,Sedan,Petrol," $89,962 ",282
+2020,9,France,X7,SUV,Electric," $46,523 ",298
+2020,10,Canada,3 Series,Sedan,Hybrid," $1,10,135 ",347
+2020,10,China,5 Series,SUV,Petrol," $55,923 ",395
+2020,10,UK,7 Series,Sedan,Petrol," $91,633 ",502
+2020,10,UK,iX,SUV,Hybrid," $57,837 ",811
+2020,10,India,X1,Electric,Diesel," $53,300 ",782
+2020,10,China,X3,Electric,Electric," $1,05,474 ",355
+2020,10,China,X5,SUV,Electric," $80,349 ",521
+2020,10,Germany,X5,Sedan,Petrol," $42,235 ",369
+2020,10,Japan,X5,Sedan,Diesel," $86,880 ",194
+2020,10,USA,X5,SUV,Hybrid," $87,719 ",847
+2020,11,France,5 Series,SUV,Electric," $48,668 ",995
+2020,11,India,7 Series,SUV,Diesel," $42,370 ",1043
+2020,11,Canada,i4,Electric,Petrol," $66,186 ",905
+2020,11,Germany,i4,Electric,Electric," $1,16,418 ",654
+2020,11,Australia,i7,Electric,Electric," $1,09,328 ",453
+2020,11,India,i7,Sedan,Petrol," $1,09,286 ",911
+2020,11,France,iX,Sedan,Hybrid," $65,480 ",984
+2020,11,Canada,X3,Electric,Hybrid," $45,785 ",542
+2020,11,India,X5,Sedan,Diesel," $1,12,362 ",495
+2020,12,UK,3 Series,SUV,Electric," $1,11,896 ",396
+2020,12,USA,3 Series,SUV,Diesel," $1,14,335 ",461
+2020,12,France,i4,SUV,Diesel," $67,567 ",488
+2020,12,India,iX,Electric,Petrol," $1,00,425 ",827
+2020,12,UK,iX,Electric,Electric," $73,196 ",531
+2020,12,France,X1,Sedan,Petrol," $83,849 ",396
+2020,12,Germany,X1,Electric,Petrol," $1,19,078 ",307
+2020,12,Australia,X5,Electric,Hybrid," $39,922 ",641
+2020,12,Canada,X5,SUV,Diesel," $94,838 ",560
+2020,12,UK,X7,Electric,Electric," $1,05,934 ",238
+2021,1,Australia,i7,Electric,Petrol," $78,258 ",505
+2021,1,Canada,iX,Electric,Electric," $1,09,694 ",410
+2021,1,Australia,X1,SUV,Petrol," $82,234 ",324
+2021,1,Germany,X3,Electric,Petrol," $49,693 ",592
+2021,1,India,X3,Electric,Electric," $41,869 ",361
+2021,2,Canada,5 Series,Electric,Electric," $43,921 ",906
+2021,2,Canada,5 Series,Electric,Diesel," $47,242 ",632
+2021,2,India,5 Series,SUV,Electric," $1,10,163 ",1237
+2021,2,France,7 Series,Sedan,Hybrid," $1,11,106 ",381
+2021,2,Australia,i7,Sedan,Petrol," $90,512 ",705
+2021,2,France,i7,SUV,Diesel," $35,731 ",524
+2021,2,Japan,iX,Sedan,Diesel," $63,307 ",221
+2021,2,Australia,X7,Sedan,Hybrid," $84,178 ",401
+2021,2,China,X7,Electric,Petrol," $1,06,537 ",928
+2021,3,France,3 Series,Electric,Petrol," $1,15,639 ",1161
+2021,3,Germany,3 Series,SUV,Hybrid," $49,678 ",875
+2021,3,Australia,5 Series,SUV,Petrol," $75,875 ",694
+2021,3,Germany,5 Series,Electric,Hybrid," $87,774 ",408
+2021,3,Germany,X1,SUV,Diesel," $74,449 ",542
+2021,3,Japan,X1,SUV,Petrol," $70,853 ",429
+2021,3,Canada,X3,SUV,Diesel," $74,886 ",935
+2021,3,Australia,X7,SUV,Diesel," $35,060 ",469
+2021,3,Japan,X7,Sedan,Diesel," $46,350 ",944
+2021,4,UK,3 Series,SUV,Hybrid," $65,341 ",730
+2021,4,USA,7 Series,Electric,Diesel," $36,466 ",992
+2021,4,Germany,i4,Sedan,Petrol," $93,531 ",602
+2021,4,China,i7,Sedan,Electric," $1,10,483 ",641
+2021,4,Brazil,iX,Sedan,Diesel," $51,555 ",245
+2021,4,Canada,iX,Electric,Hybrid," $72,333 ",644
+2021,4,Australia,X3,Sedan,Diesel," $90,830 ",629
+2021,4,Japan,X3,SUV,Petrol," $1,12,713 ",527
+2021,4,India,X7,Sedan,Electric," $1,19,719 ",782
+2021,4,USA,X7,Sedan,Diesel," $51,626 ",489
+2021,5,Germany,3 Series,SUV,Hybrid," $1,06,186 ",305
+2021,5,India,3 Series,Sedan,Electric," $83,291 ",899
+2021,5,USA,3 Series,SUV,Petrol," $1,08,591 ",403
+2021,5,Japan,i7,SUV,Electric," $38,084 ",267
+2021,5,France,X3,SUV,Diesel," $81,121 ",368
+2021,5,India,X3,Sedan,Diesel," $40,515 ",530
+2021,5,UK,X5,Sedan,Diesel," $75,718 ",1088
+2021,6,Brazil,3 Series,Electric,Petrol," $48,851 ",347
+2021,6,France,3 Series,SUV,Petrol," $59,466 ",415
+2021,6,Germany,3 Series,SUV,Petrol," $90,798 ",1008
+2021,6,France,5 Series,SUV,Hybrid," $96,247 ",136
+2021,6,Japan,i4,Electric,Petrol," $35,924 ",830
+2021,6,India,i7,SUV,Electric," $1,01,537 ",416
+2021,6,China,X5,Sedan,Petrol," $56,029 ",682
+2021,6,Canada,X7,SUV,Hybrid," $35,215 ",288
+2021,6,Germany,X7,Sedan,Diesel," $94,658 ",428
+2021,7,Germany,7 Series,Sedan,Diesel," $93,861 ",615
+2021,7,Japan,i4,Sedan,Petrol," $40,867 ",426
+2021,7,France,i7,SUV,Hybrid," $1,15,820 ",1055
+2021,7,Brazil,iX,Electric,Electric," $1,18,053 ",290
+2021,7,Germany,iX,SUV,Petrol," $1,14,878 ",453
+2021,7,India,X1,Sedan,Diesel," $90,734 ",213
+2021,7,Japan,X5,Sedan,Electric," $82,662 ",641
+2021,7,China,X7,Electric,Diesel," $68,672 ",187
+2021,8,Australia,3 Series,Electric,Diesel," $1,18,658 ",496
+2021,8,UK,3 Series,Sedan,Hybrid," $81,041 ",636
+2021,8,Australia,7 Series,Electric,Electric," $1,06,466 ",749
+2021,8,India,7 Series,Electric,Hybrid," $91,759 ",876
+2021,8,UK,7 Series,Electric,Petrol," $61,026 ",201
+2021,8,Australia,i7,Sedan,Diesel," $39,239 ",659
+2021,8,Germany,X5,Sedan,Petrol," $1,03,469 ",735
+2021,8,USA,X7,Sedan,Petrol," $69,069 ",357
+2021,9,Brazil,7 Series,Electric,Diesel," $79,755 ",602
+2021,9,China,7 Series,SUV,Diesel," $90,514 ",884
+2021,9,UK,7 Series,SUV,Diesel," $96,084 ",430
+2021,9,Australia,i7,Sedan,Hybrid," $84,036 ",1016
+2021,9,Canada,i7,SUV,Diesel," $65,979 ",203
+2021,9,Brazil,X1,SUV,Electric," $1,15,409 ",710
+2021,10,UK,3 Series,SUV,Hybrid," $84,002 ",662
+2021,10,Australia,5 Series,SUV,Diesel," $1,06,833 ",495
+2021,10,Brazil,5 Series,SUV,Petrol," $1,06,894 ",467
+2021,10,China,5 Series,SUV,Electric," $70,892 ",1099
+2021,10,China,5 Series,Electric,Electric," $54,023 ",475
+2021,10,China,i4,Sedan,Petrol," $80,203 ",514
+2021,10,UK,iX,Electric,Electric," $1,07,227 ",380
+2021,10,USA,X7,Sedan,Diesel," $64,863 ",724
+2021,11,Canada,3 Series,SUV,Hybrid," $1,07,255 ",630
+2021,11,USA,3 Series,SUV,Petrol," $38,159 ",1013
+2021,11,India,7 Series,Electric,Diesel," $48,921 ",1086
+2021,11,Australia,iX,Electric,Petrol," $47,021 ",248
+2021,11,Brazil,X5,Electric,Diesel," $50,896 ",668
+2021,12,Germany,5 Series,Electric,Hybrid," $1,12,506 ",681
+2021,12,India,5 Series,SUV,Electric," $99,604 ",754
+2021,12,UK,i4,Electric,Petrol," $1,14,465 ",553
+2021,12,Brazil,X1,Electric,Hybrid," $1,17,839 ",626
+2021,12,Canada,X1,Electric,Hybrid," $1,17,844 ",738
+2021,12,UK,X3,Electric,Electric," $61,532 ",201
+2021,12,Brazil,X5,SUV,Diesel," $82,315 ",1156
+2021,12,UK,X5,Sedan,Electric," $91,344 ",884
+2021,12,China,X7,SUV,Electric," $40,606 ",790
+2021,12,UK,X7,Sedan,Electric," $81,511 ",346
+2022,1,Brazil,3 Series,Electric,Petrol," $68,980 ",710
+2022,1,China,3 Series,Electric,Electric," $96,607 ",579
+2022,1,China,5 Series,Electric,Electric," $36,552 ",724
+2022,1,France,7 Series,Sedan,Diesel," $78,240 ",520
+2022,1,UK,7 Series,Electric,Hybrid," $1,17,666 ",260
+2022,1,China,i4,SUV,Hybrid," $72,425 ",719
+2022,1,Japan,i4,SUV,Diesel," $57,634 ",557
+2022,1,Brazil,i7,SUV,Hybrid," $55,008 ",521
+2022,1,India,iX,Sedan,Electric," $1,00,756 ",517
+2022,1,Canada,X3,Electric,Hybrid," $1,02,356 ",1067
+2022,1,Canada,X7,Sedan,Electric," $68,073 ",937
+2022,1,USA,X7,Sedan,Diesel," $91,809 ",947
+2022,1,USA,X7,SUV,Hybrid," $54,385 ",881
+2022,2,UK,3 Series,SUV,Hybrid," $51,766 ",1027
+2022,2,Brazil,5 Series,SUV,Electric," $1,00,679 ",614
+2022,2,Canada,7 Series,Sedan,Diesel," $99,173 ",431
+2022,2,Australia,i4,Sedan,Electric," $66,728 ",904
+2022,2,Australia,i4,Sedan,Diesel," $56,398 ",246
+2022,2,India,i4,Electric,Hybrid," $66,601 ",425
+2022,2,UK,i4,Electric,Diesel," $84,593 ",956
+2022,2,India,X5,Sedan,Diesel," $61,502 ",270
+2022,2,UK,X5,Sedan,Diesel," $77,674 ",925
+2022,3,UK,iX,Electric,Hybrid," $1,05,152 ",717
+2022,3,UK,X1,SUV,Diesel," $1,04,322 ",609
+2022,3,UK,X1,Sedan,Diesel," $1,11,290 ",277
+2022,3,Japan,X3,SUV,Electric," $76,203 ",880
+2022,3,China,X5,Sedan,Electric," $1,11,981 ",573
+2022,4,Japan,i4,Electric,Hybrid," $1,05,354 ",469
+2022,4,India,iX,Sedan,Petrol," $68,040 ",272
+2022,4,Germany,X1,Sedan,Petrol," $1,06,947 ",849
+2022,4,India,X3,Electric,Electric," $75,544 ",581
+2022,4,Japan,X5,Sedan,Electric," $41,089 ",880
+2022,4,India,X7,Electric,Electric," $47,861 ",669
+2022,4,India,X7,Electric,Hybrid," $1,04,904 ",968
+2022,5,Brazil,3 Series,Electric,Diesel," $50,479 ",372
+2022,5,India,3 Series,Sedan,Petrol," $42,130 ",435
+2022,5,Australia,5 Series,SUV,Hybrid," $39,897 ",631
+2022,5,Japan,5 Series,Electric,Petrol," $62,464 ",636
+2022,5,Japan,i4,Sedan,Hybrid," $77,614 ",592
+2022,5,Germany,i7,Electric,Hybrid," $41,008 ",398
+2022,5,UK,X1,Electric,Diesel," $88,051 ",209
+2022,5,France,X5,Electric,Electric," $1,11,368 ",513
+2022,6,China,3 Series,Sedan,Electric," $70,315 ",559
+2022,6,USA,3 Series,Sedan,Hybrid," $1,10,986 ",644
+2022,6,USA,3 Series,Electric,Diesel," $1,17,214 ",511
+2022,6,China,i7,SUV,Diesel," $1,11,298 ",847
+2022,6,China,i7,SUV,Petrol," $86,375 ",711
+2022,6,India,iX,Sedan,Diesel," $1,16,463 ",244
+2022,6,Japan,X1,SUV,Hybrid," $1,06,139 ",407
+2022,6,USA,X1,Sedan,Petrol," $73,185 ",406
+2022,6,USA,X1,Electric,Petrol," $1,07,104 ",185
+2022,6,Germany,X5,Electric,Diesel," $56,650 ",753
+2022,7,Australia,5 Series,SUV,Hybrid," $1,06,289 ",432
+2022,7,Germany,i4,Electric,Electric," $1,18,232 ",497
+2022,7,Australia,i7,Electric,Petrol," $1,08,369 ",205
+2022,7,USA,i7,Electric,Petrol," $1,10,452 ",415
+2022,7,France,X1,Sedan,Electric," $36,375 ",608
+2022,7,UK,X1,Electric,Electric," $71,386 ",474
+2022,8,Brazil,3 Series,SUV,Electric," $61,347 ",523
+2022,8,France,iX,SUV,Hybrid," $39,823 ",794
+2022,8,Brazil,X1,Sedan,Diesel," $1,17,987 ",80
+2022,8,Brazil,X3,Electric,Hybrid," $87,664 ",827
+2022,8,India,X3,Sedan,Hybrid," $83,639 ",823
+2022,8,USA,X7,Sedan,Diesel," $74,725 ",303
+2022,9,France,5 Series,Electric,Hybrid," $64,831 ",450
+2022,9,UK,7 Series,SUV,Electric," $73,367 ",393
+2022,9,UK,7 Series,SUV,Hybrid," $49,745 ",958
+2022,9,Canada,i7,SUV,Electric," $44,196 ",247
+2022,9,China,i7,SUV,Hybrid," $89,460 ",111
+2022,9,India,iX,SUV,Petrol," $85,617 ",674
+2022,9,Australia,X5,SUV,Diesel," $1,18,087 ",311
+2022,9,Germany,X5,Electric,Electric," $1,02,567 ",554
+2022,9,USA,X5,SUV,Petrol," $65,771 ",476
+2022,9,Germany,X7,Sedan,Hybrid," $95,354 ",531
+2022,10,China,3 Series,SUV,Hybrid," $1,13,929 ",324
+2022,10,Japan,3 Series,SUV,Diesel," $40,209 ",806
+2022,10,China,5 Series,Sedan,Diesel," $82,691 ",1124
+2022,10,Germany,5 Series,SUV,Petrol," $74,405 ",597
+2022,10,USA,i4,Electric,Petrol," $1,06,334 ",796
+2022,10,Australia,i7,Electric,Petrol," $53,690 ",818
+2022,10,Germany,i7,SUV,Petrol," $85,971 ",1021
+2022,10,Germany,i7,Sedan,Hybrid," $60,279 ",312
+2022,10,UK,iX,Sedan,Hybrid," $94,123 ",254
+2022,10,Australia,X1,Sedan,Electric," $73,220 ",811
+2022,10,Canada,X3,Electric,Diesel," $52,883 ",712
+2022,10,China,X3,Electric,Electric," $44,344 ",783
+2022,11,China,5 Series,Electric,Diesel," $84,112 ",679
+2022,11,Japan,5 Series,Sedan,Diesel," $63,756 ",1137
+2022,11,Japan,7 Series,Sedan,Hybrid," $70,340 ",902
+2022,11,USA,7 Series,Electric,Electric," $43,531 ",516
+2022,11,India,i4,Electric,Electric," $55,863 ",1031
+2022,11,Germany,i7,Sedan,Diesel," $58,991 ",457
+2022,11,China,X1,Sedan,Electric," $61,299 ",471
+2022,12,Japan,3 Series,SUV,Hybrid," $1,01,900 ",450
+2022,12,Germany,5 Series,Sedan,Hybrid," $62,025 ",880
+2022,12,UK,5 Series,Electric,Electric," $84,589 ",820
+2022,12,USA,5 Series,Electric,Hybrid," $40,594 ",152
+2022,12,UK,X1,Sedan,Petrol," $62,094 ",1012
+2022,12,UK,X5,Sedan,Hybrid," $83,940 ",386
+2022,12,Japan,X7,Electric,Diesel," $72,040 ",697
+2023,1,Canada,5 Series,Electric,Electric," $71,444 ",697
+2023,1,Germany,5 Series,SUV,Hybrid," $79,950 ",673
+2023,1,Australia,7 Series,Sedan,Petrol," $1,18,286 ",421
+2023,1,Brazil,i4,Sedan,Hybrid," $48,386 ",615
+2023,1,China,i4,Electric,Diesel," $62,405 ",605
+2023,1,USA,i4,Sedan,Hybrid," $81,216 ",784
+2023,1,Germany,i7,SUV,Hybrid," $63,379 ",466
+2023,1,Brazil,X1,SUV,Electric," $61,478 ",360
+2023,1,France,X3,Electric,Electric," $1,16,685 ",900
+2023,1,Germany,X3,Electric,Petrol," $41,937 ",588
+2023,2,China,3 Series,SUV,Diesel," $42,008 ",691
+2023,2,Germany,i7,Sedan,Hybrid," $1,00,524 ",344
+2023,2,India,i7,Electric,Hybrid," $48,798 ",1153
+2023,2,UK,i7,Electric,Electric," $44,265 ",835
+2023,2,UK,i7,Sedan,Diesel," $87,116 ",816
+2023,2,Australia,X1,Sedan,Petrol," $1,13,545 ",375
+2023,2,France,X1,Sedan,Electric," $1,07,095 ",924
+2023,2,Germany,X5,SUV,Hybrid," $1,16,010 ",887
+2023,3,China,7 Series,SUV,Hybrid," $1,09,219 ",430
+2023,3,China,i7,Electric,Diesel," $50,540 ",1177
+2023,3,Germany,i7,Electric,Electric," $71,483 ",543
+2023,3,France,iX,Electric,Diesel," $61,957 ",550
+2023,3,Germany,iX,Sedan,Petrol," $49,308 ",897
+2023,3,India,X5,SUV,Diesel," $1,04,806 ",847
+2023,3,France,X7,SUV,Hybrid," $44,121 ",742
+2023,4,France,3 Series,Sedan,Petrol," $92,196 ",566
+2023,4,UK,3 Series,Sedan,Diesel," $1,14,481 ",1190
+2023,4,UK,5 Series,Electric,Diesel," $65,232 ",319
+2023,4,Canada,i7,Electric,Hybrid," $50,511 ",309
+2023,4,Germany,X5,Electric,Electric," $1,10,318 ",532
+2023,4,USA,X5,Electric,Petrol," $74,133 ",122
+2023,5,Brazil,iX,Sedan,Diesel," $1,14,376 ",685
+2023,5,Australia,X1,Electric,Electric," $42,382 ",465
+2023,5,Australia,X1,SUV,Hybrid," $64,968 ",522
+2023,5,Brazil,X1,SUV,Petrol," $40,596 ",989
+2023,5,Germany,X3,Sedan,Hybrid," $97,712 ",432
+2023,5,Japan,X7,SUV,Hybrid," $47,940 ",1109
+2023,6,Australia,3 Series,Electric,Hybrid," $92,608 ",551
+2023,6,Japan,3 Series,Sedan,Hybrid," $80,747 ",158
+2023,6,Germany,5 Series,Electric,Electric," $46,962 ",396
+2023,6,Japan,5 Series,SUV,Hybrid," $63,060 ",256
+2023,6,USA,5 Series,SUV,Petrol," $41,470 ",281
+2023,6,Japan,7 Series,SUV,Petrol," $70,525 ",869
+2023,6,Japan,i4,SUV,Electric," $39,633 ",677
+2023,6,Brazil,X3,Sedan,Electric," $1,00,681 ",235
+2023,6,France,X3,Sedan,Petrol," $1,17,508 ",550
+2023,6,UK,X3,Sedan,Electric," $96,826 ",905
+2023,6,India,X7,SUV,Diesel," $1,03,968 ",601
+2023,7,USA,3 Series,Sedan,Petrol," $97,532 ",517
+2023,7,Germany,7 Series,Sedan,Hybrid," $75,205 ",309
+2023,7,Canada,i7,Sedan,Electric," $41,533 ",465
+2023,7,Germany,i7,Electric,Electric," $1,19,307 ",353
+2023,7,Australia,X1,Sedan,Diesel," $47,352 ",640
+2023,7,Germany,X5,SUV,Petrol," $74,346 ",773
+2023,8,USA,7 Series,Electric,Electric," $99,550 ",596
+2023,8,Australia,i4,SUV,Diesel," $1,11,441 ",705
+2023,8,Brazil,i4,SUV,Diesel," $99,757 ",845
+2023,8,France,i4,Electric,Diesel," $58,065 ",786
+2023,8,Germany,iX,Sedan,Hybrid," $62,151 ",756
+2023,8,Germany,X7,SUV,Hybrid," $42,601 ",711
+2023,9,Japan,3 Series,Electric,Hybrid," $56,042 ",552
+2023,9,Brazil,i4,SUV,Electric," $80,212 ",519
+2023,9,China,i7,Sedan,Diesel," $1,01,323 ",306
+2023,9,Japan,X1,Electric,Diesel," $1,18,163 ",661
+2023,9,UK,X1,Electric,Hybrid," $1,19,577 ",380
+2023,10,UK,3 Series,Sedan,Electric," $52,304 ",370
+2023,10,China,7 Series,Sedan,Petrol," $1,07,903 ",891
+2023,10,Japan,7 Series,Sedan,Electric," $37,159 ",1016
+2023,10,Germany,i4,Electric,Petrol," $54,572 ",253
+2023,10,Australia,iX,Sedan,Diesel," $71,133 ",899
+2023,10,Canada,iX,Electric,Electric," $93,565 ",928
+2023,10,Australia,X1,SUV,Diesel," $52,558 ",545
+2023,10,France,X1,Electric,Electric," $67,574 ",713
+2023,10,Japan,X3,Sedan,Diesel," $59,700 ",482
+2023,10,Japan,X5,SUV,Hybrid," $60,791 ",625
+2023,10,Japan,X7,Sedan,Electric," $1,11,646 ",716
+2023,11,Australia,3 Series,Electric,Diesel," $1,16,395 ",550
+2023,11,Brazil,3 Series,SUV,Diesel," $53,557 ",599
+2023,11,France,3 Series,SUV,Petrol," $63,899 ",1021
+2023,11,Germany,3 Series,Electric,Electric," $62,777 ",157
+2023,11,India,7 Series,Electric,Electric," $72,394 ",521
+2023,11,China,i4,Electric,Petrol," $49,559 ",668
+2023,11,Brazil,X7,SUV,Electric," $91,827 ",896
+2023,11,Germany,X7,SUV,Hybrid," $1,13,812 ",570
+2023,11,USA,X7,Sedan,Electric," $1,05,456 ",1130
+2023,12,Canada,5 Series,Electric,Petrol," $59,495 ",425
+2023,12,France,7 Series,Electric,Hybrid," $58,345 ",334
+2023,12,India,i7,Electric,Petrol," $1,08,717 ",530
+2023,12,China,X5,Electric,Electric," $97,287 ",963
+2023,12,France,X5,Electric,Electric," $78,601 ",810
+2023,12,France,X7,SUV,Diesel," $55,651 ",511
+2024,1,France,i4,Electric,Petrol," $86,415 ",666
+2024,1,Germany,i4,Electric,Petrol," $78,880 ",1122
+2024,1,Canada,i7,Electric,Petrol," $80,201 ",525
+2024,1,Germany,i7,SUV,Hybrid," $1,04,101 ",727
+2024,1,India,i7,Sedan,Hybrid," $63,132 ",267
+2024,1,India,i7,SUV,Petrol," $91,754 ",683
+2024,1,Australia,X3,SUV,Diesel," $94,251 ",451
+2024,1,UK,X5,Electric,Hybrid," $68,367 ",576
+2024,2,India,3 Series,SUV,Hybrid," $77,814 ",498
+2024,2,India,3 Series,Sedan,Petrol," $1,19,431 ",433
+2024,2,Brazil,5 Series,Sedan,Electric," $1,02,163 ",556
+2024,2,Canada,7 Series,Electric,Hybrid," $86,322 ",705
+2024,2,UK,7 Series,Sedan,Electric," $59,846 ",341
+2024,2,Germany,i4,Electric,Electric," $39,567 ",123
+2024,2,Brazil,iX,SUV,Diesel," $1,17,203 ",926
+2024,2,France,X5,SUV,Electric," $84,630 ",862
+2024,2,USA,X5,SUV,Petrol," $91,207 ",821
+2024,2,Canada,X7,Sedan,Petrol," $46,695 ",314
+2024,3,Australia,3 Series,Sedan,Petrol," $1,05,610 ",1022
+2024,3,Canada,3 Series,SUV,Diesel," $38,729 ",257
+2024,3,China,3 Series,Electric,Electric," $1,01,972 ",780
+2024,3,Japan,5 Series,Electric,Diesel," $36,515 ",474
+2024,3,Germany,7 Series,Sedan,Hybrid," $67,363 ",607
+2024,3,Canada,iX,Sedan,Petrol," $58,283 ",355
+2024,3,Canada,iX,Electric,Electric," $1,13,282 ",1129
+2024,3,Germany,iX,Electric,Petrol," $59,594 ",288
+2024,3,Germany,X1,SUV,Hybrid," $79,306 ",525
+2024,3,Germany,X5,SUV,Electric," $1,00,431 ",646
+2024,4,Canada,5 Series,Electric,Hybrid," $49,175 ",918
+2024,4,Canada,7 Series,Electric,Electric," $39,837 ",429
+2024,4,Japan,7 Series,Electric,Petrol," $1,02,087 ",256
+2024,4,UK,iX,SUV,Petrol," $98,143 ",468
+2024,4,Brazil,X1,Sedan,Petrol," $44,873 ",805
+2024,4,Germany,X3,Sedan,Electric," $63,610 ",1086
+2024,4,India,X3,SUV,Hybrid," $50,386 ",815
+2024,4,UK,X3,Electric,Hybrid," $1,12,242 ",894
+2024,4,USA,X5,Sedan,Hybrid," $69,924 ",667
+2024,5,China,3 Series,Sedan,Hybrid," $48,331 ",107
+2024,5,Australia,i7,Sedan,Electric," $86,628 ",638
+2024,5,Germany,i7,SUV,Petrol," $79,130 ",348
+2024,5,UK,i7,Sedan,Electric," $56,292 ",931
+2024,5,Japan,iX,Electric,Hybrid," $49,997 ",465
+2024,5,Japan,iX,Electric,Diesel," $35,178 ",805
+2024,5,Australia,X1,SUV,Hybrid," $37,962 ",893
+2024,5,France,X1,Electric,Diesel," $90,192 ",784
+2024,5,Brazil,X3,Sedan,Hybrid," $63,022 ",935
+2024,5,Japan,X3,SUV,Electric," $88,364 ",411
+2024,5,India,X7,Electric,Petrol," $46,360 ",695
+2024,5,Japan,X7,SUV,Hybrid," $47,632 ",947
+2024,5,UK,X7,Electric,Diesel," $1,06,232 ",1001
+2024,6,Germany,3 Series,Sedan,Electric," $83,821 ",883
+2024,6,Japan,5 Series,SUV,Petrol," $42,354 ",989
+2024,6,India,7 Series,Electric,Petrol," $1,16,720 ",868
+2024,6,Canada,iX,Electric,Electric," $63,931 ",307
+2024,6,China,X1,Electric,Petrol," $1,03,694 ",527
+2024,6,China,X3,Sedan,Diesel," $80,039 ",542
+2024,6,UK,X3,Sedan,Diesel," $1,09,797 ",720
+2024,7,USA,3 Series,Sedan,Hybrid," $62,241 ",508
+2024,7,Germany,5 Series,Sedan,Hybrid," $56,638 ",790
+2024,7,Germany,5 Series,Electric,Electric," $41,080 ",967
+2024,7,France,7 Series,SUV,Hybrid," $78,390 ",448
+2024,7,Japan,7 Series,Sedan,Electric," $37,887 ",571
+2024,7,Germany,i4,SUV,Petrol," $35,946 ",871
+2024,7,Brazil,i7,Sedan,Hybrid," $73,367 ",596
+2024,7,Japan,X3,SUV,Electric," $76,910 ",686
+2024,7,Germany,X5,SUV,Electric," $82,922 ",853
+2024,7,USA,X5,SUV,Petrol," $76,979 ",630
+2024,8,Australia,3 Series,SUV,Diesel," $57,813 ",514
+2024,8,India,3 Series,Sedan,Electric," $57,706 ",737
+2024,8,Brazil,7 Series,SUV,Electric," $84,768 ",451
+2024,8,Australia,i4,Electric,Petrol," $35,901 ",207
+2024,8,France,i4,SUV,Electric," $92,769 ",778
+2024,8,Brazil,i7,Sedan,Electric," $62,856 ",869
+2024,8,France,X1,Sedan,Electric," $74,867 ",951
+2024,8,UK,X1,Sedan,Diesel," $97,766 ",499
+2024,8,Canada,X3,SUV,Electric," $80,875 ",857
+2024,9,Canada,7 Series,SUV,Petrol," $54,627 ",697
+2024,9,Canada,i4,Sedan,Hybrid," $42,951 ",475
+2024,9,Japan,X3,Sedan,Diesel," $96,957 ",605
+2024,9,Australia,X5,Sedan,Diesel," $65,734 ",409
+2024,9,India,X5,Sedan,Petrol," $54,267 ",1149
+2024,9,USA,X5,Sedan,Electric," $96,360 ",313
+2024,10,France,3 Series,SUV,Petrol," $52,027 ",299
+2024,10,China,7 Series,SUV,Electric," $69,980 ",914
+2024,10,UK,i4,Sedan,Electric," $64,813 ",570
+2024,10,UK,X7,Electric,Electric," $36,539 ",686
+2024,10,UK,X7,Electric,Electric," $1,18,123 ",912
+2024,11,France,3 Series,SUV,Diesel," $71,405 ",348
+2024,11,UK,5 Series,Electric,Petrol," $65,024 ",626
+2024,11,Brazil,7 Series,Sedan,Hybrid," $58,154 ",1061
+2024,11,Australia,i4,SUV,Diesel," $89,970 ",798
+2024,11,USA,i7,Electric,Electric," $97,699 ",730
+2024,11,Japan,X1,Electric,Electric," $92,656 ",1115
+2024,11,Japan,X5,Sedan,Hybrid," $47,379 ",59
+2024,11,China,X7,Electric,Petrol," $1,10,179 ",430
+2024,11,France,X7,SUV,Diesel," $1,01,766 ",753
+2024,12,Brazil,3 Series,SUV,Electric," $64,709 ",130
+2024,12,UK,5 Series,Electric,Hybrid," $96,078 ",630
+2024,12,France,7 Series,SUV,Diesel," $84,646 ",736
+2024,12,France,7 Series,Sedan,Electric," $67,769 ",1095
+2024,12,Canada,i7,Electric,Electric," $59,354 ",426
+2024,12,China,i7,Electric,Diesel," $1,18,564 ",687
+2024,12,Canada,iX,Electric,Diesel," $51,562 ",476
+2024,12,Canada,iX,Electric,Hybrid," $67,016 ",641
+2024,12,France,X1,Electric,Hybrid," $36,605 ",622
+2024,12,Brazil,X7,Electric,Hybrid," $1,18,597 ",281
+2024,12,Germany,X7,Sedan,Diesel," $35,228 ",171
