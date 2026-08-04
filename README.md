@@ -88,7 +88,7 @@ The dataset contains BMW global sales information including:
 Data Analyst Fresher
 
 LinkedIn:
-https://www.linkedin.com/in/saravana-kumar-b-
+https://www.linkedin.com/in/saravanakumarb
 
 GitHub:
 https://github.com/saravanakumarb5
